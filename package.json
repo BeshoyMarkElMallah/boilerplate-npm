@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Beshoy Mark"
+	"author": "Beshoy Mark",
+	"description": "A project for freeCodeCamp's Node.js and Express.js course."
 	
 }
